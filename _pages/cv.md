@@ -11,16 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science at UNI-BH (Belo Horizone - Brazil ), 2015 - 2019
+* M.S. in Computer Science at UFMG (Federal University of Minas Gerais (Brazil), 2019 - current
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016 - 2019: Developer - Scientific research
+  * UFMG (Federal University of Minas Gerais (Brazil ))
+  * Project - FUTEBOL (Federated Union of Telecommunications Research Facilities for an EU-Brazil Open Laboratory - http://www.ict-futebol.org.br/)
+  * Duties included: Development of a remote control framework for research equipment.
+                    Computer network research (wired and wireless).
+                    Writing and publication of articles in national and international conferences.
+  * Supervisor: Teachers <a href="https://homepages.dcc.ufmg.br/~damacedo/About_Me.html">Daniel Macedo</a> and <a href="https://homepages.dcc.ufmg.br/~jmarcos/">José Marcos></a> (UFMG)
 
 * Fall 2015: Research Assistant
   * Github University
