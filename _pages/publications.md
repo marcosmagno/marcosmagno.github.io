@@ -13,7 +13,7 @@ SILVA, ALOIZIO P. ; ABREU, BERNARDO A. ; SILVA, ERIK B. ; CARVALHO, MARCOS ; NUN
 
 <br/>
 
-SILVA, A. P. ; Erik de Britto e Silva ; Daniel Fernandes Macedo ; José Marcos Silva Nogueira ; Luiz Filipe Menezes Vieira ; Marcos Augusto Menezes Vieira ; CARVALHO, M. M. ; Matheus Henrique do Nascimento Nunes ; BOTH, C. B. . Assessing the impact of fog and cloud computing on an IoT service running over an optical/wireless network-An experimental approach. 2017 (Resumos publicados em anais de congressos).
+SILVA, A. P. ; Erik de Britto e Silva ; Daniel Fernandes Macedo ; José Marcos Silva Nogueira ; Luiz Filipe Menezes Vieira ; Marcos Augusto Menezes Vieira ; CARVALHO, M. M. ; Matheus Henrique do Nascimento Nunes ; BOTH, C. B. .<b> Assessing the impact of fog and cloud computing on an IoT service running over an optical/wireless network-An experimental approach</b>. 2017 (Abstracts published in proceedings of conferences).
 
 
 
