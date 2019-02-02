@@ -5,9 +5,15 @@ permalink: /home/
 author_profile: true
 ---
 About me
+2015 - 2019
+	I'm a computer scientist with experience in network system development, data analysis and machine learning.
 
-I'm a computer scientist with experience in network system development, data analysis and machine learning.
 
-Since 2015 I have been dedicated in the academic area, through research work in the area of wireless network at the Federal University of Minas Gerais(UFMG - BRAZIL), specifically in the <a href="http://www.winet.dcc.ufmg.br/doku.php">WINET laboratory</a>.
+	Since 2016 I have been dedicated in the academic area, through research work in the area of wireless network of the Federal University of Minas Gerais (UFMG - BRAZIL), specifically in the <a href="http://www.winet.dcc.ufmg.br/doku.php">WINET laboratory</a>.Since then, I have been working on the <a href="http://www.ict-futebol.org.br/">FUTEBOL project</a>. My responsibility in this project is the development of a framework of a federated control framework to integrate testbeds from Europe and Brazil for network researchers from academia/industry with unprecedented features.
 
-I pursue a Master’s degree in Computer Science at the UFMG, under the supervision of professor <a href="https://homepages.dcc.ufmg.br/~damacedo/About_Me.html">Daniel Macedo</a>. My research interests are mostly related to Machine Learning applications, wireless network... I'm still defining!
+	In addition, I participated in the development of an application of control of intelligent lamps, through command of voice and gestures, experiments and data collection, besides the writing of an article in which it was published in an international conference.
+
+I pursue a Master’s degree in Computer Science at the UFMG, under the supervision of professor <a href="https://homepages.dcc.ufmg.br/~damacedo/About_Me.html">Daniel Macedo</a>. My research interests are mostly related to Machine Learning applications, wireless network...still defining!
+
+
+
