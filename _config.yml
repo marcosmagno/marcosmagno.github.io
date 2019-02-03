@@ -182,14 +182,14 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  photos:
     output: true
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
-  # _posts
+  # _photos
   - scope:
       path: ""
       type: posts
