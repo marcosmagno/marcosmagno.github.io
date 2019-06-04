@@ -7,4 +7,5 @@ author_profile: true
 
 
 <img src="../files/Presentation.JPG">
-Presentation Experiment to control intelligent lamps with gestures and voice.
+<img src="../files/sbrc2019.jpg">
+<img src="../files/sbrc2019_2.jpg">
