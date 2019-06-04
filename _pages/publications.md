@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-CARVALHO, MARCOS; Vinicius Fonseca e Silva ; SILVA, ERIK B. ; Daniel Fernandes Macedo . QD4G: QoE para Vídeo em Redes D2D/4G com Aprendizado de Máquina. In: XXXVII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2019, Gramado. XXXVII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2019, 2019. 
+CARVALHO, MARCOS; Vinicius Fonseca e Silva ; SILVA, ERIK B. ; Daniel Fernandes Macedo . <b>QD4G: QoE para Vídeo em Redes D2D/4G com Aprendizado de Máquina.</b> In: XXXVII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2019, Gramado. XXXVII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2019, 2019. 
 
 
 Tavares, R. C., Carvalho, M., Vieira, M. A., Vieira, L. F., & Krishnamachari, B. (2018, October). <b>FWB: Funneling Wider Bandwidth Algorithm for High Performance Data Collection in Wireless Sensor Networks.</b> In Proceedings of the 21st ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (pp. 9-16). ACM.
